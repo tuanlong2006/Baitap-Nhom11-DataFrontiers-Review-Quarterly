@@ -1,4 +1,4 @@
-# Baitap-Nhom11-DataFrontiers Review Quarterly
+# Baitap-Nhom11-DataFrontiersReviewQuarterly
 Bài tập lớn môn Cơ sở dữ liệu -DataFrontiers  Review  Quarterly 
 DataFrontiers Journal Management System
 
